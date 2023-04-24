@@ -1503,7 +1503,7 @@
 }
  #overlay {
     background: #ffffff;
-    background-image: url("../img/add-on/Page1.jpg");
+    background-image: url("../img/add-on/Page11.jpg");
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -1513,7 +1513,7 @@
     z-index: 2000;
 }
  #overlay .content {
-     background: rgba(241, 235, 235, 0.5);
+     background: rgba(241, 235, 235, 0);
      position: relative;
      width: 100%;
      height: 100%;
@@ -3720,6 +3720,16 @@
     background-size: cover;
     background-position: center;
 }
+
+.last-section {
+    background-image: url("../img/add-on/last.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 700px; /* adjust to your liking */
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+  }
 
 /*# sourceMappingURL=style.css.map */
  
