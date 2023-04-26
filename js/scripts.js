@@ -200,7 +200,7 @@ $(document).ready(function () {
             address: 'Rajawali Ballroom Hotel 21, Jl. MT. Haryono Jl. Jajar Barat No.137, Jajar, Purwodadi, Kec. Purwodadi, Kab. Grobogan, Jawa Tengah 58111',
 
             // Event Description
-            description: "Bismillahirrahmanirrahim \n\nKami mengundang Bapak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah akan diadakan di \n\nAkad Nikah: Hotel 21 Purwodadi, 18 Mei 2022 - 07:00. \nResepsi: Hotel 21 Purwodadi, 18 Mei 2022 - 11:00. \n\nKami tidak sabar untuk dapat melihat Anda di hari besar kami. :) \n \nSalam Hangat, \nLulu dan Afa"
+            description: "Bismillahirrahmanirrahim \n\nKami mengundang Bapak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah acara resepsi akan diadakan pada 18 Mei 2022 pukul 11:00 sampai dengan 13:00. \n\nKami tidak sabar untuk dapat melihat Anda di hari besar kami. :) \n \nSalam Hangat, \nLulu dan Afa"
         }
     });     
 
