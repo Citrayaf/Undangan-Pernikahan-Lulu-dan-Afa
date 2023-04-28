@@ -1505,11 +1505,14 @@
     background: #ffffff;
     background-image: url("../img/add-on/page113.jpg");
     background-size: cover;
+    background-position: center;
     height: 100%;
     width: 100%;
     position: fixed;
-    top: 0;
-    left: 0;
+    top: 50;
+    bottom: 50;
+    right: 50;
+    left: 50;
     z-index: 2000;
 }
  #overlay .content {
